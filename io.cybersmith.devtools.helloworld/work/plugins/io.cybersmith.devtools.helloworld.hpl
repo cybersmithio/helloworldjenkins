@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: io.cybersmith.devtools.helloworld
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-08/23/2019 10:12-jsmith)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: /home/jsmith/helloworldjenkins/io.cybersmith.devtools.hello
+ world/src/main/resources,/home/jsmith/helloworldjenkins/io.cybersmith
+ .devtools.helloworld/target/classes
+Resource-Path: /home/jsmith/helloworldjenkins/io.cybersmith.devtools.h
+ elloworld/src/main/webapp
+

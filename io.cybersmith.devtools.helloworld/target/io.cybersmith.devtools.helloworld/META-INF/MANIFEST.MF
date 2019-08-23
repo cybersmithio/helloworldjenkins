@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: jsmith
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_201
+Extension-Name: io.cybersmith.devtools.helloworld
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: io.cybersmith.devtools.helloworld
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: io.cybersmith.devtools.helloworld
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-08/23/2019 09:27-jsmith)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+
